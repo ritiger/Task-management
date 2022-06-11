@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h3>Version 1.0.0</h3>
+    <h1>This is working page</h1>
     <router-link to="/">Go Back</router-link>
   </div>
 </template>
